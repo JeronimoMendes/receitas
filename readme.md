@@ -8,8 +8,8 @@ Files contain metadata with the list of ingredients, which can be used to query 
 
 ### Deserts
 
-- [Basque Cheesecake](/deserts/basque-cheesecake.md)
+- [Basque Cheesecake](/recipes/deserts/basque-cheesecake.md)
 
 
 ### Drinks
-- [Caipirinha do Silvio](/drinks/caipirinha-do-silvio.md)
+- [Caipirinha do Silvio](/recipes/drinks/caipirinha-do-silvio.md)
